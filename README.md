@@ -44,8 +44,6 @@ effectiveness and feasibility of the proposed design.
 ![aapm](https://github.com/user-attachments/assets/84d92370-601a-49dc-9034-fbd45a8c967b)
 
 ### Other Related Projects
-<div align="center"><img src="https://github.com/yqx7150/OSDM/blob/main/All-CT.png" >  </div>   
-    
   * Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction      
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10233041)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GMSD)
 
